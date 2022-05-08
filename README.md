@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Ngacho. &#128075;</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/52356809/167303994-26206bdf-a727-4682-8cd4-ab9dea6cb402.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
