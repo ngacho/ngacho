@@ -10,8 +10,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C | Java | Go
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; Python | C | Java | Javascript | Typescript
+- 🌐 &nbsp; Android | Angular | Web | Machine Learning
 - 🛢 &nbsp; Firebase 
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
 
