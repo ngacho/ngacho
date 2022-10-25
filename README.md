@@ -21,7 +21,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngacho&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngacho&langs_count=10&count_private=true&hide=css,html&exclude_repo=pacman-contest&theme=dracula)](https://github.com/ngacho/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
