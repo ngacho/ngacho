@@ -3,17 +3,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Web development
+- 🔭 &nbsp; I’m currently Playing with LLMs
 - 🤔 &nbsp; I have a peculiar knack for Optimization and prediction problems.
-- 🎓 &nbsp; Studying Computer Science and Statistics.
-- 💼 &nbsp; Android developer and front-end web developer.
+- 🎓 &nbsp; Studying Computer Science.
+- 💼 &nbsp; Full Stack Development.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C | Java | Javascript | Typescript
-- 🌐 &nbsp; Android | Angular | Web | Machine Learning
+- 💻 &nbsp; Python | C | Java | Kotlin | Javascript | Typescript
+- 🌐 &nbsp; Android | Angular | Web | Machine Learning | Actions
 - 🛢 &nbsp; Firebase 
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git | Docker
 
 <br>
 
@@ -28,6 +28,7 @@
 
 <p align="center">
 &nbsp; <a href="https://cutt.ly/brandon-linkedin" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.ngacho.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=256&id=68247&format=png" width="50" /></a>
 &nbsp; <a href="mailto:popondo24@amherst.edu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
