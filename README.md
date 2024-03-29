@@ -4,14 +4,13 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently Playing with LLMs
-- 🤔 &nbsp; I have a peculiar knack for Optimization and prediction problems.
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Full Stack Development.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C | Java | Kotlin | Javascript | Typescript
-- 🌐 &nbsp; Android | Angular | Web | Machine Learning | Actions
+- 💻 &nbsp; Python | C | Java | Kotlin | Javascript | Typescript | Risc-V assembly
+- 🌐 &nbsp; Android | Angular | Web | Hugo | Actions
 - 🛢 &nbsp; Firebase 
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git | Docker
 
